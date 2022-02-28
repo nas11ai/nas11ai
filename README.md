@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nasa'i Kairupan</h1>
-<h3 align="center">A student from Kalimantan's Institute of Technology</h3>
+<h3 align="center">A Flutter and Blockchain Enthusiast</h3>
 
 - 🌱 I’m currently learning **smart contracts w/ solidity**
 
