@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects about blockchain
 - 📫 How to reach me : dm me on my ig @m_nasai_k
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nas11ai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nas11ai&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
