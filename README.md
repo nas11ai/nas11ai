@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nasa'i Kairupan</h1>
 <h3 align="center">A student from Kalimantan's Institute of Technology</h3>
 
-- 🌱 I’m currently learning **Web Development at https://fullstackopen.com/en**
+- 🌱 I’m currently learning **Web Development at [Full Stack Open](https://fullstackopen.com/en)**
 
 - 💬 Ask me about **Flutter and React.js**
 
-- 📫 How to reach me **https://www.instagram.com/m_nasai_k/**
+- 📫 How to reach me **Contact me at [my instagram](https://www.instagram.com/m_nasai_k/)**
 
 - ⚡ Fun fact **I'm an INFJ**
 
