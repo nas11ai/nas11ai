@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development at [Full Stack Open](https://fullstackopen.com/en)**
 
-- 💬 Ask me about **Flutter and React.js**
+- 💬 Ask me about **Solidity and Node.js**
 
 - 📫 How to reach me **Contact me at [my instagram](https://www.instagram.com/m_nasai_k/)**
 
