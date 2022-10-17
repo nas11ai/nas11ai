@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Contact me at [my instagram](https://www.instagram.com/m_nasai_k/)**
 
-- ⚡ Fun fact **I'm an INFJ**
+- ⚡ Fun fact **I'm an INTP-A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
